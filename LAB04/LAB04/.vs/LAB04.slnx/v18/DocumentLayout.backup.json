@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFBB8C7-3C38-4D53-BFFC-2E8F0BE07BC5}|LAB04.vcxproj|C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB04\\LAB04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FFBB8C7-3C38-4D53-BFFC-2E8F0BE07BC5}|LAB04.vcxproj|solutionrelative:LAB04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8413AD39-38DD-43E6-B9F4-A3DF1D6E25B5}|..\\LAB0401\\LAB0401.vcxproj|C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0401\\LAB0401.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52331714-A7A2-4292-88A7-FA8696C12759}|..\\LAB0403\\LAB0403.vcxproj|C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0403\\LAB0403.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1759D0-0A29-44DE-BF90-691260FAAF84}|..\\LAB0402\\LAB0402.vcxproj|C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0402\\LAB0402.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB0402.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0402\\LAB0402.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0402\\LAB0402.cpp",
+              "ToolTip": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0402\\LAB0402.cpp",
+              "RelativeToolTip": "..\\LAB0402\\LAB0402.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T09:07:58.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB0403.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0403\\LAB0403.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0403\\LAB0403.cpp",
+              "ToolTip": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0403\\LAB0403.cpp",
+              "RelativeToolTip": "..\\LAB0403\\LAB0403.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T02:57:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB0401.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0401\\LAB0401.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0401\\LAB0401.cpp",
+              "ToolTip": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB0401\\LAB0401.cpp",
+              "RelativeToolTip": "..\\LAB0401\\LAB0401.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T09:07:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB04.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB04\\LAB04.cpp",
+              "RelativeDocumentMoniker": "LAB04.cpp",
+              "ToolTip": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB04\\LAB04\\LAB04.cpp",
+              "RelativeToolTip": "LAB04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-06T09:36:01.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
