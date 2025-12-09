@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Test01.vcxproj" Id="ce29e68b-cf54-429b-915e-09adfc986b1c" />
+  <Project Path="Variable Test1/Variable Test1.vcxproj" Id="adef2267-a289-4a55-8ea3-ee8eabb4207c" />
+  <Project Path="Variables Test2/Variables Test2.vcxproj" Id="f2ceff20-19ef-4d10-afaf-9f077c011324" />
+  <Project Path="VariablesTest3/VariablesTest3.vcxproj" Id="cdf56131-3256-4b22-8775-b5d4a7055d04" />
+</Solution>

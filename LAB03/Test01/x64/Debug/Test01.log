@@ -1,0 +1,3 @@
+﻿  Test01.cpp
+C:\Users\Asus\source\repos\6812100004-tawatchaiMUT\MIIA0106-2025-B\LAB01\TEST01\Test01\Test01.cpp(12,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Test01.vcxproj -> C:\Users\Asus\source\repos\6812100004-tawatchaiMUT\MIIA0106-2025-B\LAB01\TEST01\Test01\x64\Debug\Test01.exe
