@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0601\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42BBD5EB-6200-478D-BD74-F2262E0D78D4}|..\\LAB0604\\LAB0604.vcxproj|C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A923F4-E162-4B74-803D-B8EB01C9602B}|..\\LAB0603\\LAB0603.vcxproj|C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEC6773-4E2B-4FBC-B5BC-17953C2EFA3C}|..\\LAB0602\\LAB0602.vcxproj|C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4745A7D-EA68-49F8-A1F8-AB263530E985}|LAB0601.vcxproj|C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0601\\LAB0601.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4745A7D-EA68-49F8-A1F8-AB263530E985}|LAB0601.vcxproj|solutionrelative:LAB0601.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB0604.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0604\\LAB0604.cpp",
+              "ToolTip": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp",
+              "RelativeToolTip": "..\\LAB0604\\LAB0604.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:56:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB0603.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0603\\LAB0603.cpp",
+              "ToolTip": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp",
+              "RelativeToolTip": "..\\LAB0603\\LAB0603.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:30:57.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB0602.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0602\\LAB0602.cpp",
+              "ToolTip": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp",
+              "RelativeToolTip": "..\\LAB0602\\LAB0602.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:16:05.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB0601.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0601\\LAB0601.cpp",
+              "RelativeDocumentMoniker": "LAB0601.cpp",
+              "ToolTip": "C:\\Users\\Asus\\MIIA0106-2025-B\\LAB06\\LAB0601\\LAB0601.cpp",
+              "RelativeToolTip": "LAB0601.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T08:44:51.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
