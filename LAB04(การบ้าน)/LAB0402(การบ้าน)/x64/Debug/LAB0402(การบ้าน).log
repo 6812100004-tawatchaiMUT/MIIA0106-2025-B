@@ -1,0 +1,8 @@
+﻿  LAB0402(การบ้าน).cpp
+C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0402(การบ้าน)\LAB0402(การบ้าน).cpp(8,10): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (874)
+C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0402(การบ้าน)\LAB0402(การบ้าน).cpp(8,10): warning C4566: character represented by universal-character-name '\u00C5' cannot be represented in the current code page (874)
+C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0402(การบ้าน)\LAB0402(การบ้าน).cpp(8,10): warning C4566: character represented by universal-character-name '\u00A2' cannot be represented in the current code page (874)
+C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0402(การบ้าน)\LAB0402(การบ้าน).cpp(8,10): warning C4566: character represented by universal-character-name '\u00A4' cannot be represented in the current code page (874)
+C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0402(การบ้าน)\LAB0402(การบ้าน).cpp(8,10): warning C4566: character represented by universal-character-name '\u00D9' cannot be represented in the current code page (874)
+C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0402(การบ้าน)\LAB0402(การบ้าน).cpp(8,10): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (874)
+  LAB0402(การบ้าน).vcxproj -> C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0401(การบ้าน)\x64\Debug\LAB0402(การบ้าน).exe

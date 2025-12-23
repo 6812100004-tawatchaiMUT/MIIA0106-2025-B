@@ -1,0 +1,3 @@
+﻿  LAB0405(การบ้าน).cpp
+C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0405(การบ้าน)\LAB0405(การบ้าน).cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LAB0405(การบ้าน).vcxproj -> C:\Users\Asus\MIIA0106-2025-B\LAB04(การบ้าน)\LAB0401(การบ้าน)\x64\Debug\LAB0405(การบ้าน).exe
